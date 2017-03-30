@@ -1,5 +1,5 @@
 # mr-pig [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url] [![Coverage percentage][coveralls-image]][coveralls-url]
-> A DiscordBot that&#39;ll do basic stuff. Edit
+> A DiscordBot that&#39;ll do basic stuff.
 
 ## Installation
 
